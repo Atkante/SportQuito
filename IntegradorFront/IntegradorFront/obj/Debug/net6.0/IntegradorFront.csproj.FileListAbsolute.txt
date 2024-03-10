@@ -1,0 +1,60 @@
+D:\Escritorio\IntegradorFront\IntegradorFront\bin\Debug\net6.0\appsettings.Development.json
+D:\Escritorio\IntegradorFront\IntegradorFront\bin\Debug\net6.0\appsettings.json
+D:\Escritorio\IntegradorFront\IntegradorFront\bin\Debug\net6.0\IntegradorFront.staticwebassets.runtime.json
+D:\Escritorio\IntegradorFront\IntegradorFront\bin\Debug\net6.0\IntegradorFront.exe
+D:\Escritorio\IntegradorFront\IntegradorFront\bin\Debug\net6.0\IntegradorFront.deps.json
+D:\Escritorio\IntegradorFront\IntegradorFront\bin\Debug\net6.0\IntegradorFront.runtimeconfig.json
+D:\Escritorio\IntegradorFront\IntegradorFront\bin\Debug\net6.0\IntegradorFront.dll
+D:\Escritorio\IntegradorFront\IntegradorFront\bin\Debug\net6.0\IntegradorFront.pdb
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\IntegradorFront.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\IntegradorFront.AssemblyInfoInputs.cache
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\IntegradorFront.AssemblyInfo.cs
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\IntegradorFront.csproj.CoreCompileInputs.cache
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\IntegradorFront.MvcApplicationPartsAssemblyInfo.cache
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\IntegradorFront.RazorAssemblyInfo.cache
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\IntegradorFront.RazorAssemblyInfo.cs
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\staticwebassets.build.json
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\staticwebassets.development.json
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\staticwebassets\msbuild.IntegradorFront.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\staticwebassets\msbuild.build.IntegradorFront.props
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IntegradorFront.props
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IntegradorFront.props
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\scopedcss\bundle\IntegradorFront.styles.css
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\scopedcss\projectbundle\IntegradorFront.bundle.scp.css
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\IntegradorFront.dll
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\refint\IntegradorFront.dll
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\IntegradorFront.pdb
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\IntegradorFront.genruntimeconfig.cache
+D:\Escritorio\IntegradorFront\IntegradorFront\obj\Debug\net6.0\ref\IntegradorFront.dll
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\bin\Debug\net6.0\appsettings.json
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\bin\Debug\net6.0\IntegradorFront.staticwebassets.runtime.json
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\bin\Debug\net6.0\IntegradorFront.exe
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\bin\Debug\net6.0\IntegradorFront.deps.json
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\bin\Debug\net6.0\IntegradorFront.runtimeconfig.json
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\bin\Debug\net6.0\IntegradorFront.dll
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\bin\Debug\net6.0\IntegradorFront.pdb
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\IntegradorFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\IntegradorFront.AssemblyInfoInputs.cache
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\IntegradorFront.AssemblyInfo.cs
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\IntegradorFront.csproj.CoreCompileInputs.cache
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\IntegradorFront.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\IntegradorFront.RazorAssemblyInfo.cache
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\IntegradorFront.RazorAssemblyInfo.cs
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\staticwebassets\msbuild.IntegradorFront.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\staticwebassets\msbuild.build.IntegradorFront.props
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IntegradorFront.props
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IntegradorFront.props
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\scopedcss\bundle\IntegradorFront.styles.css
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\scopedcss\projectbundle\IntegradorFront.bundle.scp.css
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\IntegradorFront.dll
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\refint\IntegradorFront.dll
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\IntegradorFront.pdb
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\IntegradorFront.genruntimeconfig.cache
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\Presentacion\IntegradorFront\IntegradorFront\obj\Debug\net6.0\ref\IntegradorFront.dll

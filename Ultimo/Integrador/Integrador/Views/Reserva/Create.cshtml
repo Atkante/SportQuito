@@ -1,0 +1,57 @@
+﻿@model Integrador.Models.Reserva
+
+@{
+    ViewData["Title"] = "Reservar";
+}
+
+<h1>Reservar</h1>
+
+<hr />
+<div class="row">
+    <div class="container mt-4">
+        <h2 class="mt-4 mb-3 text-center">Reserva con nosotros</h2>
+        <form asp-action="Create" method="POST" class="mb-4" onsubmit="return validarFechas()">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-row">
+                <div class="form-group col-md-2">
+                    <label asp-for="FechaReserva">Fecha:</label>
+                    <input asp-for="FechaReserva" id="fecha" class="form-control" required />
+                    <span asp-validation-for="FechaReserva" class="text-danger"></span>
+                </div>
+                <div class="form-group col-md-2">
+                    <label asp-for="HoraReserva">Hora de inicio:</label>
+                    <input type="time" asp-for="HoraReserva" id="horaInicio" class="form-control" required />
+                    <span asp-validation-for="HoraReserva" class="text-danger"></span>
+                </div>
+                <div class="form-group col-md-2">
+                    <label for="horaFin">Hora de finalización:</label>
+                    <input type="time" id="horaFin" name="horaFin" class="form-control" required>
+                </div>
+                <div class="form-group col-md-4">
+                    <label asp-for="IdInstalacionDeportiva">Tipo de cancha deportiva:</label>
+                    <select asp-for="IdInstalacionDeportiva" id="tipoCancha" class="form-control" required>
+                        <option value="" disabled selected>Seleccione tipo de cancha</option>
+                        <option value="Fútbol">Fútbol</option>
+                        <option value="Baloncesto">Basquet</option>
+                        <option value="Tenis">Tenis</option>
+                        <option value="Tenis">Voley</option>
+                        <option value="Tenis">Gimnasia</option>
+                        <option value="Tenis">Piscina</option>
+                    </select>
+                    <span asp-validation-for="IdInstalacionDeportiva" class="text-danger"></span>
+                </div>
+                <div class="form-group col-md-2 align-self-end">
+                    <button type="submit" class="btn btn-primary mt-4">Reservar</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Regresar al inicio</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
